@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "name": "salary",
+      "type": "income",
+      "amount": "30000",
+      "id": 3
+    },
+    {
+      "name": "upori income",
+      "type": "income",
+      "amount": "10000",
+      "id": 7
+    }
+  ]
+}
